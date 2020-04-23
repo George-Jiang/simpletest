@@ -14,3 +14,6 @@ def process(filename,top_number, bottom_number):
     process('12', bottom_number)
     process('13', top_number)
     dwg.save()
+
+def new():
+    pass
